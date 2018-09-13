@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestTask.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DevID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5FB+zTdZBtSAFKay6VsYvt7zGfVxQAJXilwc6DZm2i6GeDnqHfwEl9GvvD7MY2ylHOApz9gPd2E6qSIG0tAXHQ==</Value>
+    </Setting>
+    <Setting Name="appKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">h5u1j0ri1shwhns</Value>
+    </Setting>
+    <Setting Name="appSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bmo4a84duhfgcdz</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

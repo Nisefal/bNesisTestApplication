@@ -1,0 +1,1 @@
+﻿netsh http add urlacl url="http://localhost:809/" user=everyone
